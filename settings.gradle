@@ -1,1 +1,1 @@
-include ':expandingprogressbar', ':expandingprogressbar-example', ':myapplication', ':mylibrary'
+include ':expandingprogressbar', ':expandingprogressbar-example'
